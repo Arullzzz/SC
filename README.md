@@ -4,11 +4,11 @@
 
 </p>
 <p align="center">
-<a href="#"><img title="BotolBotZ VERSI 16.0.0" src="https://img.shields.io/badge/BotolBotZ Versi 16.0.0-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="RzLModz V7" src="https://img.shields.io/badge/BotolBotZ Versi 16.0.0-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/botoltzyyy"><img title="Author" src="https://img.shields.io/badge/Author-BotolBotZ-red.svg?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/botoltzyyy/v16"><img title="Recode" src="https://img.shields.io/badge/Recode-BotolBotZ-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/RzLModz"><img title="Author" src="https://img.shields.io/badge/Author-RzLModz-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/RzLModz/SC"><img title="Recode" src="https://img.shields.io/badge/Recode-RzLModz-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/botoltzyyy/followers"><img title="Followers" src="https://img.shields.io/github/followers/BotolBotZ?color=red&style=flat-square"></a>
@@ -61,9 +61,9 @@
 > pkg install ffmpeg
 > pkg install imagemagick
 > pkg install libwebp
-> git clone https://github.com/botoltzyyy/v16
-> cd v16
-> git clone https://github.com/botoltzyyy/node_modules
+> git clone https://github.com/RzLModz/SC
+> cd SC
+> git clone https://github.com/RzLModz/node_modules
 > npm start
 ```
 
@@ -85,9 +85,9 @@ https://github.com/botoltzyyy/heroku-buildpack-webp-binaries.git
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php) (if nulis want work,  checklist columns 1,2,3,5,6)
 
 ```
-> git clone https://github.com/botoltzyyy/v16
-> cd v16
-> git clone https://github.com/botoltzyyy/node_modules
+> git clone https://github.com/RzLModz/SC
+> cd SC
+> git clone https://github.com/RzLModz/node_modules
 > npm start
 ```
 
@@ -115,11 +115,11 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 ```
 
 ## Donate
-- [Saweria](https://saweria.co/botoltzyyy)
-- [Linktree](https://linktr.ee/botoltzyyy)
-- [Dana](089512545999)
-- [Ovo](089512545999)
-- [Gopay](089512545999)
+- [Saweria](https://saweria.co/XModz)
+- [Linktree](https://linktr.ee/XModz)
+- [Dana](088274342094)
+- [Ovo](0899999999)
+- [Gopay](088274342094)
 
 # Official Group
 - [Group 1](https://chat.whatsapp.com/Gq71DUTFOhRE9efPYyobYu)
@@ -132,7 +132,7 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 
 
 # Thanks to
-<a href="https://github.com/botoltzyyy"><img src="https://github.com/botoltzyyy.png?size=100" width="100" height="100"></a> | [![NURUTOMO](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) 
+<a href="https://github.com/RzLModz"><img src="https://github.com/RzLModz.png?size=100" width="100" height="100"></a> | [![NURUTOMO](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) 
 ---|---
 [BotolBotZ](https://github.com/botoltzyyy)  | [Nurutomo](https://github.com/Nurutomo)
 Developer Ramdani bot v16 | Constributor |
