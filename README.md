@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://telegra.ph/file/5b0e7b25014372e2a43e2.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+<img src="https://telegra.ph/RzL-04-08" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
 </p>
 <p align="center">
-<a href="#"><img title="RzLModz V7" src="https://img.shields.io/badge/BotolBotZ Versi 16.0.0-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="RzLModz V7" src="https://img.shields.io/badge/RzLModz V7-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/RzLModz"><img title="Author" src="https://img.shields.io/badge/Author-RzLModz-red.svg?style=for-the-badge&logo=github"></a>
@@ -35,15 +35,15 @@
 
 ## Information
 ## bahasa Indonesia
-> BotolBotZ V16 adalah bot yang di ciptakan oleh BotolBotZ.
+> V7 adalah bot yang di ciptakan oleh RzLModz.
 > Jika kamu menemukan semacam bug/error, harap untuk dimaklumi sementara.
 ## Language English
-> BotolBotZ V16 is a bot created by BotolBotZ
+> V7 is a bot created by RzLModz
 > If you find some kind of bug/error, please forgive me for a while
 
 ## Bugs and Tester
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-alpha](https://wa.me/62887435047326)
+* Info Lebih Lanjut, Chat [RzL-Modz](https://wa.me/6288277562022)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -122,20 +122,20 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 - [Gopay](088274342094)
 
 # Official Group
-- [Group 1](https://chat.whatsapp.com/Gq71DUTFOhRE9efPYyobYu)
-- [Group 2](https://chat.whatsapp.com/I4qx9yNFPXP6cGP7Q1zBhq)
-- [Group 3](https://chat.whatsapp.com/IbGdZllhP0Q92BJrOwvOLK)
-- [Group coding bersama](https://chat.whatsapp.com/FR0FmwpBEmQ3HuyF2SIdVQ)
-- [Group tes bot](https://chat.whatsapp.com/L8ucMoUQUTt3gKzSvpttbU)
-- [Group murid bot](https://chat.whatsapp.com/IyNVUbMxyoSG0Sw0oe6T62)
-- [Group saling subscribe](https://chat.whatsapp.com/Dx8VCkqvDSRD5yXXxQ3LK3)
+- [Group 1](https://chat.whatsapp.com/D1EEASZyIIFKPlZPW2sOqJ)
+- [Group 2](https://chat.whatsapp.com/D1EEASZyIIFKPlZPW2sOqJ)
+- [Group 3](https://chat.whatsapp.com/D1EEASZyIIFKPlZPW2sOqJ)
+- [Group coding bersama](https://chat.whatsapp.com/D1EEASZyIIFKPlZPW2sOqJ)
+- [Group tes bot](https://chat.whatsapp.com/D1EEASZyIIFKPlZPW2sOqJ)
+- [Group murid bot](https://chat.whatsapp.com/D1EEASZyIIFKPlZPW2sOqJ)
+- [Group saling subscribe](https://chat.whatsapp.com/D1EEASZyIIFKPlZPW2sOqJ)
 
 
 # Thanks to
 <a href="https://github.com/RzLModz"><img src="https://github.com/RzLModz.png?size=100" width="100" height="100"></a> | [![NURUTOMO](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) 
 ---|---
-[BotolBotZ](https://github.com/botoltzyyy)  | [Nurutomo](https://github.com/Nurutomo)
-Developer Ramdani bot v16 | Constributor |
+[RzLModz](https://github.com/RzLModz)  | [Nurutomo](https://github.com/Nurutomo)
+Developer RzL bot V7 | Constributor |
 <a href="https://github.com/MhankBarBar"><img src="https://github.com/MhankBarBar.png?size=100" width="100" height="100"></a> | [![FATIH](https://github.com/fatiharridho.png?size=100)](https://github.com/fatiharridho) 
 [Mhankbarbar](https://github.com/MhankBarBar)  | [Fatih A.](https://github.com/fatiharridho)
 Constributor | For Help |
